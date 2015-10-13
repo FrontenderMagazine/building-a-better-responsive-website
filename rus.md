@@ -699,7 +699,7 @@
 [9]: http://www.envisionsuccess.net/our-culture
 
 [Разнообразие телефонов]: img/phones-500.jpg?raw=true&amp;repo=building-a-better-responsive-website
-[Две версии дизайна нашего вебсайта]: img/envision-extremes-500.jpg?raw=true&amp;repo=building-a-better-responsive-website
+[Две версии дизайна нашего сайта]: img/envision-extremes-500.jpg?raw=true&amp;repo=building-a-better-responsive-website
 [Фоновое изображение, которое мы использовали чтобы определить контрольные точки для отзывчивого дизайна]: img/responsive-guide-sm-500.jpg?raw=true&amp;repo=building-a-better-responsive-website
 [Вид кнопки меню в макете для мобильных устройств]: img/menu-mobile.jpg?raw=true&amp;repo=building-a-better-responsive-website
 [Главная навигация сайта в версии для небольших экранов]: img/nav-mobile.jpg?raw=true&amp;repo=building-a-better-responsive-website
