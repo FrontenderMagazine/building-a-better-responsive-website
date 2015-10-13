@@ -441,7 +441,7 @@
         font-family: 'RokkittRegular', Times, "Times New Roman", serif;
     }
 
-![Мобильная навигация][Основная навигация нашего сайта в версии для маленьких экрано]
+![Мобильная навигация][Главная навигация сайта в версии для небольших экранов]
 
 *Основная навигация нашего сайта в версии для маленьких экранов*
 
@@ -703,5 +703,5 @@
 [Фоновое изображение, которое мы использовали чтобы определить контрольные точки для отзывчивого дизайна]: img/responsive-guide-sm-500.jpg?raw=true&amp;repo=building-a-better-responsive-website
 [Вид кнопки меню в макете для мобильных устройств]: img/menu-mobile.jpg?raw=true&amp;repo=building-a-better-responsive-website
 [Главная навигация сайта в версии для небольших экранов]: img/nav-mobile.jpg?raw=true&amp;repo=building-a-better-responsive-website
-[Навигация вложенных страниц в версии для небольших экранов]: img/mobile-subnav.jpg?raw=true&amp;repo=building-a-better-responsive-website
+[Навигация внутренних страниц в версии для небольших экранов]: img/mobile-subnav.jpg?raw=true&amp;repo=building-a-better-responsive-website
 [Два раздела главной страницы сайта]: img/envision-sections.jpg?raw=true&amp;repo=building-a-better-responsive-website
